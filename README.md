@@ -6,7 +6,7 @@ Free Bootstrap 4 documentation template.Author [sharebootstrap](https://shareboo
 
 ## Demo
 
-[See it live](https://azouaoui-med.github.io/pro-sidebar-template/src)
+[See it live](https://sharebootstrap.com/docu-free-bootstrap-4-documentation-theme/)
 
 
 ## Quick start
